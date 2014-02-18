@@ -1,0 +1,25 @@
+{
+  "name": "trinket-ace-builds",
+  "version": "1.0.0",
+  "homepage": "https://github.com/trinketapp/ace-builds",
+  "authors": [
+    "ajaxorg"
+  ],
+  "description": "custom build until next release of ajaxorg/ace",
+  "main": "src-min/ace.js",
+  "keywords": [
+    "ace",
+    "ajaxorg",
+    "code",
+    "trinket"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
